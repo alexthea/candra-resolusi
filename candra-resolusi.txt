@@ -2,3 +2,5 @@ CANDRA RESOLUSI
 - Konsisten untuk belajar programming setiap hari
 - Membuat semua orang bahagia
 - Belajar terus, terus belajar
+- Membuat web sederhana
+- Kolaborasi dengan programmer lain yang lebih expert
