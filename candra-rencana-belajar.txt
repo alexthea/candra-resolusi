@@ -2,7 +2,9 @@ RENCAMA BELAJAR CANDRA
 - JavaScript
   * ES6
   * Framework JavaScript
-- Struktur Data Dasar
+    ^ Angular
+    ^ React
 - PHP Framework
+  ^ Laravel
 - Node Js
 - Git
