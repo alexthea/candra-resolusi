@@ -1,4 +1,4 @@
-RENCAMA BELAJAR CANDRA
+RENCANA BELAJAR CANDRA
 - JavaScript
   * ES6
   * Framework JavaScript
