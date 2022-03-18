@@ -1,5 +1,7 @@
 RENCAMA BELAJAR CANDRA
 - JavaScript
+  * ES6
+  * Framework JavaScript
 - PHP Framework
 - Node Js
 - Git
